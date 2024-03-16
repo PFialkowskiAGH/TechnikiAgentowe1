@@ -4,6 +4,8 @@ public class Main {
         //zadanie2.run();
         //zadanie3.run();
         //zadanie4.run();
-        zadanie5.run();
+        //zadanie5.run();
+        //zadanie6.run();
+        zadanie7.run();
     }
 }
